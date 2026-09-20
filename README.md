@@ -2,21 +2,20 @@
 
 ### Junior AI Engineer | AI/ML Developer | Software Builder
 
-I'm a **Junior AI Engineer and B.Tech Artificial Intelligence student** focused on building practical AI systems, intelligent applications, and software products that solve real-world problems.
+I'm a **Junior AI Engineer and B.Tech Artificial Intelligence student** focused on building practical AI systems, intelligent applications and software products that solve real-world problems.
 
-I work across **Artificial Intelligence, Machine Learning, Python, backend development, data structures, and full-stack applications**. My approach is simple: **learn by building, build with purpose, and continuously improve.**
+I work across **Artificial Intelligence, Machine Learning, Python, backend development, data structures and full-stack applications**. My approach is simple: **learn by building, build with purpose and continuously improve.**
 
 ## About Me
 
 -  **Junior AI Engineer** building and experimenting with real-world AI/ML systems
--  **Currently building:** AI-powered applications, intelligent automation tools, and full-stack software
--  **Working with:** Machine Learning, Python, Data Structures & Algorithms, APIs, databases, and modern web technologies
+-  **Currently building:** AI-powered applications, intelligent automation tools and full-stack software
+-  **Working with:** Machine Learning, Python, Data Structures & Algorithms, APIs, databases and modern web technologies
 -  **Building toward:** Production-ready AI applications and scalable software products
--  **Currently developing:** My skills in ML engineering, system design, backend architecture, and AI deployment
--  **Open to collaborating on:** AI/ML projects, open-source software, hackathons, research-oriented projects, and startups
--  **Ask me about:** Python, AI/ML, software development, APIs, GitHub, and building projects from scratch
+-  **Currently developing:** My skills in ML engineering, system design, backend architecture and AI deployment
+-  **Open to collaborating on:** AI/ML projects, open-source software, hackathons, research-oriented projects and startups
+-  **Ask me about:** Python, AI/ML, software development, APIs, GitHub and building projects from scratch
 -  **Career direction:** AI Engineering → Product Development → Technology Entrepreneurship
--  **Fun fact:** I don't want to just use AI tools — I want to understand how AI systems work and build them myself.
 
 ## What I Do
 
@@ -90,27 +89,33 @@ I work across **Artificial Intelligence, Machine Learning, Python, backend devel
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+## GitHub Stats
 
-## Current Focus
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=WAYNEMAUTSA&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-```tex
-AI Engineering
-████████████████████░░  Building & Improving
+![GitHub Streak](https://streak-stats.demolab.com/?user=WAYNEMAUTSA&theme=dark&hide_border=true)
 
-Machine Learning
-███████████████████░░░  Building & Experimenting
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=WAYNEMAUTSA&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Python & DSA
-████████████████████░░  Strengthening
+---
 
-Backend Engineering
-██████████████████░░░░  Building
+## GitHub Trophies
 
-System Design
-███████████████░░░░░░░  Developing
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WAYNEMAUTSA&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-Full-Stack Development
-██████████████████░░░░  Building
+---
 
-Product Development
-████████████████░░░░░░  Exploring & Building
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waynemautsa)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waynemautsa)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/waynemautsa)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mandemcodex)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waynebussiness00@gmail.com)
+
+
+  LOCKED IN.... TYPE SHIIII

@@ -1,22 +1,5 @@
 # Hi, I'm Wayne 
 
-### Junior AI Engineer | AI/ML Developer | Software Builder
-
-I'm a **Junior AI Engineer and B.Tech Artificial Intelligence student** focused on building practical AI systems, intelligent applications and software products that solve real-world problems.
-
-I work across **Artificial Intelligence, Machine Learning, Python, backend development, data structures and full-stack applications**. My approach is simple: **learn by building, build with purpose and continuously improve.**
-
-## About Me
-
--  **Junior AI Engineer** building and experimenting with real-world AI/ML systems
--  **Currently building:** AI-powered applications, intelligent automation tools and full-stack software
--  **Working with:** Machine Learning, Python, Data Structures & Algorithms, APIs, databases and modern web technologies
--  **Building toward:** Production-ready AI applications and scalable software products
--  **Currently developing:** My skills in ML engineering, system design, backend architecture and AI deployment
--  **Open to collaborating on:** AI/ML projects, open-source software, hackathons, research-oriented projects and startups
--  **Ask me about:** Python, AI/ML, software development, APIs, GitHub and building projects from scratch
--  **Career direction:** AI Engineering → Product Development → Technology Entrepreneurship
-
 ## What I Do
 
 ### Artificial Intelligence & Machine Learning
